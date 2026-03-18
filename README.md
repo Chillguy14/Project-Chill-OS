@@ -1,6 +1,6 @@
-# Chill OS 🧊
+# IcyOS 🧊
 
-Chill OS is my personal Linux project, built from the ground up.  
+IcyOS is my personal Linux project, built from the ground up.  
 The goal is to create a fast, simple, and blueish OS with Hyprland, Waybar, and custom configs.
 
 ## 🔹 Features
